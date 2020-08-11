@@ -7,8 +7,8 @@
 	 
 *Pre-requisite :-*
        1.Register Your twitter account
-	   2.Register your twitter API
-	   3.Python 3.0 install
+       2.Register your twitter API
+       3.Python 3.0 install
 	   
 *I am sharing my project report and case study PPT with you.
 You can refer to this material to better understand this project*
