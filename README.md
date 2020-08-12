@@ -22,4 +22,4 @@ of an unknown tweet stream.
 
 
 *I am sharing my project report and case study PPT with you.
-You can refer to this material to better understand this project*
+You can refer these material to better understand about project*
