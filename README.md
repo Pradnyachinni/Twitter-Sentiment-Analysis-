@@ -1,5 +1,5 @@
-# Python
-**Twitter Sentiment Analysis  :-**
+
+# ** Twitter Sentiment Analysis  :- **
             This project addresses the problem of sentiment analysis in twitter, that is classifying tweets according to the sentiment expressed in them : positive, negative or neutral. 
       Analysing the public sentiment is important for many applications such as firms trying to find out the response of their products in the market, 
       predicting political elections and predicting socioeconomic phenomena like stock exchange. 
