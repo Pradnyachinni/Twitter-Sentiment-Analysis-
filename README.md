@@ -1,5 +1,8 @@
  
 # Twitter-Sentiment-Analysis
+
+![performing-twitter-sentiment-analysis1](https://user-images.githubusercontent.com/55854146/90147754-285e5c80-dda0-11ea-9a53-e3d20223db85.jpg)
+
 Python Script for sentimental analysis of tweets.
 This project addresses the problem of sentiment analysis in twitter, that is classifying tweets according to the sentiment
 expressed in them : positive, negative or neutral. 
